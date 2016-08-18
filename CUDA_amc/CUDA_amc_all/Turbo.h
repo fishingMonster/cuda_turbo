@@ -6,7 +6,7 @@ typedef struct
 	float *gamma;
 	float *ab;
 
-} cudaMap;
+} cudaMap;//add some
 
 typedef struct
 {
